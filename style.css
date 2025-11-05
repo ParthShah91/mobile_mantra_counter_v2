@@ -1,7 +1,7 @@
 body {
   margin: 0;
   background: #111;
-  color: #fff;
+  color: #fad873; /* #fad873 - orange, #fff - black */
   font-family: sans-serif;
   display: flex;
   justify-content: center;
