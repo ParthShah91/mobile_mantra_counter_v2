@@ -26,7 +26,7 @@ async function loadConfig() {
 }
 
 function vibrate() {
-  if (navigator.vibrate) navigator.vibrate(10);
+  if (navigator.vibrate) navigator.vibrate(1000);
 }
 
 function beep() {
